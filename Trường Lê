@@ -1,0 +1,6 @@
+echo "# Exam_ps30642" >> README.md
+git init
+git add README.md
+LICENSE
+src/
+ main.java
